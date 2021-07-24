@@ -1,0 +1,23 @@
+{
+  "name": "netonics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeelmasoom/netonics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adeelmasoom/netonics/issues"
+  },
+  "homepage": "https://github.com/adeelmasoom/netonics",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
